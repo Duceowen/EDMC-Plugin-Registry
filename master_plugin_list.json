@@ -101,7 +101,7 @@
     "pluginLicense": "MIT License",
     "pluginVT": "https://www.virustotal.com/gui/file/a47977e420ba5b1924635b4aa8d6283175a9757115613863947d4d81fe68cb0a",
     "pluginHash": "a47977e420ba5b1924635b4aa8d6283175a9757115613863947d4d81fe68cb0a",
-    "pluginStars": "8"
+    "pluginStars": "9"
   },
   {
     "pluginName": "EDMC-LimpetTimer",
@@ -222,7 +222,7 @@
     "pluginIcon": "https://raw.githubusercontent.com/dwomble/EDMC-NeutronDancer/master/assets/icon.png",
     "pluginVT": "https://www.virustotal.com/gui/file/502261ce52c10d579e9a91af6cc3306c3c9c2caf8e9bcec6070b08fce221a086",
     "pluginHash": "502261ce52c10d579e9a91af6cc3306c3c9c2caf8e9bcec6070b08fce221a086",
-    "pluginStars": "27"
+    "pluginStars": "28"
   },
   {
     "pluginName": "EDMC-Pioneer",
@@ -653,6 +653,6 @@
     "pluginRequirements": [],
     "pluginIcon": "https://gitlab.com/inutt/edmc-jump-fuel-plugin/-/raw/main/images/icon.png",
     "pluginVT": "",
-    "pluginStars": "1"
+    "pluginStars": "3"
   }
 ]
